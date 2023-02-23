@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+\\Константы
 const row = 3
 const cols = 4
 
